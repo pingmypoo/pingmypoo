@@ -28,11 +28,11 @@
 
 ---
 
-### 👨‍💻 เกี่ยวกับฉัน (About Me)
+### 👨‍💻 About Me
 
 ```yaml
-name: "ฉัตรมงคล คาน (Chatmongkol Khan / ปิงปิง)"
-education: "B.Sc. in Information Technology — มหาวิทยาลัยราชภัฏอุดรธานี (UDRU)"
+name: "Chatmongkol Khan (ฉัตรมงคล คาน)"
+education: "B.Sc. in Information Technology — Udon Thani Rajabhat University (UDRU)"
 status: "🟢 Open to Internship — Software Development & AI Engineering"
 focus_areas:
   - "💻 Full-Stack Web Application Development (PHP, JS, HTML/CSS, MySQL)"
@@ -42,13 +42,13 @@ focus_areas:
 highlights:
   - "🏆 UDRU Hackathon 2025 Participant"
   - "🧠 Artificial Intelligence Workshop Participant"
-  - "🎖️ ROTC Sergeant (สำเร็จการฝึกนักศึกษาวิชาทหาร ชั้นปีที่ 3)"
-location: "📍 Udon Thani / Bangkok (Rama 2), Thailand"
+  - "🎖️ ROTC Sergeant (3 Years Completed)"
+location: "📍 Udon Thani / Bangkok, Thailand"
 ```
 
 ---
 
-### 🛠️ ทักษะและเครื่องมือที่ใช้ (Tech Stack & Tools)
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -84,20 +84,20 @@ location: "📍 Udon Thani / Bangkok (Rama 2), Thailand"
 
 ---
 
-### 🚀 ผลงานเด่น (Featured Projects)
+### 🚀 Featured Projects
 
-| โปรเจกต์ (Project) | หมวดหมู่ (Category) | เทคโนโลยีหลัก (Tech Stack) | ลิงก์ (Link) |
+| Project | Category | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| 🌐 **Personal Portfolio Website** | Web Portfolio | `HTML5` `CSS3` `JavaScript` | [🔗 เปิดเว็บ](https://pingmypoo.github.io) |
-| 🔥 **Boss Tracker Web App** | Real-Time Web Utility | `HTML5` `CSS3` `JavaScript` | [🔗 เปิดใช้งาน](https://pingmypoo.github.io/boss-tracker.html) |
+| 🌐 **Personal Portfolio Website** | Web Portfolio | `HTML5` `CSS3` `JavaScript` | [🔗 Live Site](https://pingmypoo.github.io) |
+| 🔥 **Boss Tracker Web App** | Real-Time Web Utility | `HTML5` `CSS3` `JavaScript` | [🔗 Live App](https://pingmypoo.github.io/boss-tracker.html) |
 | 🖥️ **Automated Screen Detection & Alert** | Desktop GUI & Automation | `AutoHotkey v2` `FindText` `PowerShell` `Discord Webhook` | `Desktop App` |
-| 👗 **Costume Rental Management System** | Full-Stack Web & SA | `PHP` `MySQL` `JavaScript` `DFD / ER Diagram` | [📂 ดูโค้ด](https://github.com/pingmypoo/pingmypoo.github.io/tree/main/Costume_rental) |
+| 👗 **Costume Rental Management System** | Full-Stack Web & SA | `PHP` `MySQL` `JavaScript` `DFD / ER Diagram` | [📂 Source](https://github.com/pingmypoo/pingmypoo.github.io/tree/main/Costume_rental) |
 | 📊 **ML Classifier Benchmark & Dashboard** | Machine Learning | `Python` `scikit-learn` `pandas` `NumPy` | `5-Fold CV` |
-| 🐱 **Catbreed PHP & Web Labs** | Web Programming | `PHP` `HTML5` `CSS3` | [📂 ดูโค้ด](https://github.com/pingmypoo/Catbreed_php) |
+| 🐱 **Catbreed PHP & Web Labs** | Web Programming | `PHP` `HTML5` `CSS3` | [📂 Source](https://github.com/pingmypoo/Catbreed_php) |
 
 ---
 
-### 📊 สถิติการเขียนโค้ด (GitHub Stats & Streak)
+### 📊 GitHub Stats & Streak
 
 <div align="center">
 
@@ -119,25 +119,20 @@ location: "📍 Udon Thani / Bangkok (Rama 2), Thailand"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pingmypoo&theme=tokyonight" width="95%" alt="Profile Summary Details" />
 </p>
 
-</div>
+<!-- Contribution Snake (No Heading) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pingmypoo/pingmypoo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pingmypoo/pingmypoo/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/pingmypoo/pingmypoo/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
----
-
-### 🐍 กราฟงูกินจุด Contribution (Contribution Snake)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pingmypoo/pingmypoo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pingmypoo/pingmypoo/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/pingmypoo/pingmypoo/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-### 🤝 ช่องทางติดต่อ (Connect with Me)
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://pingmypoo.github.io" target="_blank">
